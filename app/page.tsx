@@ -5,18 +5,18 @@ import React, { useEffect, useMemo, useState } from "react";
 const merch = [
   {
     name: "Signature Poster",
-    desc: "당신의 생일 숫자가 등장하는 e의 위치를 감성 포스터로 제작",
+    desc: "“Your date, found in infinity.”",
     price: "₩19,000",
   },
   {
-    name: "Infinity Acrylic Frame",
-    desc: "무한한 소수 속에서 발견한 당신의 날짜를 아크릴 액자로 보관",
-    price: "₩39,000",
+    name: "Couple Poster",
+    desc: "“Your birthdays,y found within the same infinite sequence.”",
+    price: "₩35,000",
   },
   {
-    name: "Couple Edition",
-    desc: "두 사람의 생일 숫자를 나란히 담은 커플 기프트",
-    price: "₩49,000",
+    name: "Metal Card",
+    desc: "“Carry your infinity.”",
+    price: "₩24,900",
   },
 ];
 
